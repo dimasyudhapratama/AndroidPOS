@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android POS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="teamname">Createam</string>
+    <string name="dashboard_info">Utamakan Kejujuran dan Selalu Ramah Terhadap Pelanggan</string>
+    <string name="title_activity_history_penjualan">History Penjualan</string>
+    <string-array name="takeaway_stat">
+       <item>TakeAway</item>
+       <item>Dine-In</item>
+    </string-array>
+</resources>
